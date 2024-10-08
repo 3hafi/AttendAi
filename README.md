@@ -1,7 +1,13 @@
 # AttendAi
 AttendAi is an intelligent attendance management system that leverages computer vision and facial recognition technology to automate the process of recording attendance.
 
+Machine Learning is Fun! Part 4: [Article]([https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78])
+https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
 
+
+##
+AttendAi revolutionizes attendance tracking by using facial recognition technology. Simply look at the camera, and you're marked present! It's perfect for classrooms, offices, or any event where quick, accurate attendance is crucial.
+No more time-consuming roll calls or easily-forged sign-in sheets. AttendAi is fast, secure, and eliminates human error. It's the future of attendance management, saving time and increasing accuracy for both administrators and attendee
 ## Key Features:
 - Real-time facial recognition using webcam input
 - Automated attendance logging to CSV file
