@@ -5,7 +5,7 @@ Machine Learning is Fun! Part 4: [Article]([https://medium.com/@ageitgey/machine
 https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78
 
 ##
-AttendAi revolutionizes attendance tracking by using facial recognition technology. Simply look at the camera, and you're marked present! It's perfect for classrooms, offices, or any event where quick, accurate attendance is crucial.
+Simply look at the camera, and you're marked present! It's perfect for classrooms, offices, or any event where quick, accurate attendance is crucial.
 
 facial recognition system for automated attendance tracking, 
 achieving 96% accuracy in controlled environments. Features real-time face detection 
